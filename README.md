@@ -50,7 +50,7 @@
 
 **Oddanie projektu - zajęcia 12.11.2026:**
 
-- Komplet rozwiązań, sprawozdań i materiałów do podsumowania projektu. Dzień 11.11 pozostaje rezerwą.
+- Komplet rozwiązań, sprawozdań i materiałów do podsumowania projektu.
 
 ---
 
