@@ -1,7 +1,5 @@
 # Wytyczne, harmonogram i deadline'y - Laboratorium 3
 
-Zakres zadań określa PDF „Kryptologia lab03_zadania”.
-
 ### Grupa 2 - `zad3-gr2`
 
 - **Podstawowe:** implementacja szyfrowania i deszyfrowania Vigenère'em i Hillem dla alfabetu 26-znakowego; odczyt tekstu i klucza z plików, zapis wyników do pliku oraz wybór trybu pracy.
